@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é @macollynB
+- 👋 Olá meu nome é **@macollynB**
 - :+1: meu email de contato é macollyn.barbosa@escola.pr.gov.br
 -  👀 Eu estou interessado em aprender a progamar novas liguagens.
 - 🌱 Eu estou aprendedo a progamar recentimente a linguagem de JavaScript e Scratch
